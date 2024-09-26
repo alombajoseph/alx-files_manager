@@ -1,5 +1,5 @@
 0x04. Files manager
-the following tasks
+it has the following tasks
 Tasks
 0. Redis utils
 mandatory
